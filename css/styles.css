@@ -16,7 +16,7 @@ h2 {
   margin-bottom: 1rem;
 }
 
-#miltiplication-form {
+#multiplication-form {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -54,7 +54,7 @@ h2 {
   text-align: center;
 }
 
-#miltiplication-form input[type="submit"] {
+#multiplication-form input[type="submit"] {
   max-height: 50px;
   padding: 0.6rem 1.2rem;
   width: 200px;
